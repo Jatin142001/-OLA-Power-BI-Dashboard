@@ -1,4 +1,4 @@
-# OLA_Power-BI-Dashboard
+# OLA_Ride_Analytics_Dashboard_Power BI
 
 ## 📌 Project Overview
 ### This project is an interactive Power BI dashboard designed to analyze OLA’s ride data, providing actionable insights into ride demand, revenue trends, customer preferences, and driver performance. The dashboard enables users to explore key business metrics and make data-driven decisions.
