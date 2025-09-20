@@ -27,4 +27,4 @@
 - Microsoft Excel / CSV – Data preprocessing and cleaning
 
 ## 📸 Dashboard Preview
-*(![OLA Power BI Dashboard]("C:\Users\ashuj\OneDrive\Desktop\OLA Data Analysis Project\Preview.png"))*  
+*(![OLA Power BI Dashboard]()*  
